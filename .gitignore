@@ -1,0 +1,7 @@
+#Visual Studio 的文件
+*.ipch
+/build/vs2017/.vs/Sun/v15/ipch/*
+
+#生成的文件
+/out/*
+!/out/.gitkeep
